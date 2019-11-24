@@ -1,0 +1,48 @@
+body {
+    background-image:linear-gradient(lightpink,lightblue);
+}
+
+.h3 {
+    font-family:"Quicksand";
+    font-size:50px;
+    text-align:center;
+    margin-top:20px;
+}
+
+.nav-link {
+    color:white;
+}
+
+.img1 {
+    margin:20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-left:470px;
+}
+
+p {
+    font-family:"Quicksand";
+    font-size:20px;
+    text-align:center;
+    margin-top:20px;
+}
+
+.h2 {
+    font-family:"Quicksand";
+    font-size:20px;
+    margin-left:-55px;
+    text-align:center;
+    margin-top:20px;
+    color:black;
+}
+
+.h31 {
+    font-family:"Quicksand";
+    font-size:50px;
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:50px;
+}
+
+img {
+    box-shadow: 5px 5px 5px gray;
+}
